@@ -1,4 +1,4 @@
-# Lab 5.2
+# Lab 5
 
 ## Documents
 
@@ -9,11 +9,15 @@
 ### Install dependencies:
 
 ```bash
+yarn install
+or 
 npm i
 ```
 
 ### Run:
 
 ```bash
+yarn run dev
+or
 npm run dev
 ```
